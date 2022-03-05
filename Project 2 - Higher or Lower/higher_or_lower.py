@@ -5,8 +5,8 @@ import os
 import getting_data
 
 
-files = set([f for f in os.listdir('.') if os.path.isfile(f)])  # 2
-# print(files)
+files = set([f for f in os.listdir('.') if os.path.isfile(f)]) 
+
 
 file_not_found_message = """It looks like you are playing the game for the first time
 Please wait for a bit while we get the data for a game
