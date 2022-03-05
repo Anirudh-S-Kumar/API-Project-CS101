@@ -1,6 +1,7 @@
 # Project 2 - Higher or Lower Game
 
-This is a spinoff of the popular higher or lower game (https://www.higherlowergame.com/) using wikidata queries instead of using Google Trends data <br>
+This is a spinoff of the popular higher or lower game (https://www.higherlowergame.com/) using wikidata queries instead of using Google Trends data.
+No API keys are required to run this project<br>
 The project uses two APIs
 - Wikidata API : Used to get the list of items to compare within the game
 - Wikipedia API : Used to get the pageviews on a site in the last 2 months. 
