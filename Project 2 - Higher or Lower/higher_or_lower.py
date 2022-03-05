@@ -67,7 +67,6 @@ def get_views(title):
 
     param = {
         "action": "query",
-        # "meta": "siteviews",
         "prop": "pageviews",
         "format": "json",
         "titles": f"{title}"
@@ -89,8 +88,6 @@ vs = """
 | |/ (__  )
 |___/____(_)
 """
-
-# print(get_random_value().split(" - "))
 
 
 def main_loop():
