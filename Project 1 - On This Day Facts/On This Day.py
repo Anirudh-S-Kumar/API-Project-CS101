@@ -3,36 +3,6 @@ import json
 import datetime
 from random import randint
 
-
-"""
-This project is really basic
-It asks user for a day of the year, and then gives them a random 'On This Day' fact
-The project uses wikimedia api to get these facts
-It requires presence of a secret_info.json file which has the following structure
-
-{"Client ID":
-    "<CLIENT_IDT>",
-
-"Client secret":
-    "<CLIENT_SECRET>",
-
-"Access token":
-    "<ACCESS_TOKEN>"
-
-"App name":
-    "<APP_NAME>",
-
-"Email":
-    "<EMAIL_ID>"
-}
-
-The first 3 fields are already there when you download your API key from the wikimedia API
-You just need to make the "App name" and "Email" fields with the name of your project and registered email ID in it
-A sample json file has been provided for your reference.
-
-
-"""
-
 # Taking day input and verifying that it's correct
 while True:
     try:
