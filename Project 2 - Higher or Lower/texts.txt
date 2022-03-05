@@ -1,0 +1,18 @@
+
+    __  ___       __
+   / / / (_)___ _/ /_  ___  _____
+  / /_/ / / __ `/ __ \/ _ \/ ___/
+ / __  / / /_/ / / / /  __/ /
+/_/ ///_/\__, /_/ /_/\___/_/
+   / /  /____/_      _____  _____
+  / /   / __ \ | /| / / _ \/ ___/
+ / /___/ /_/ / |/ |/ /  __/ /
+/_____/\____/|__/|__/\___/_/
+
+Hello and Welcome to the Higher or Lower game! This is the spinoff of the popular game
+Higher or Lower (https://www.higherlowergame.com/) but this time using Wikidata instead.
+
+Two options will be presented to you, and you have to use your critical thinking skills 
+to determine which article gets more views.
+
+Have Fun!
