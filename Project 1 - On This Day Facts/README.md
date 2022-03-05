@@ -2,7 +2,7 @@
 This project asks user for a day of the year, and then gives them a random 'On This Day' fact
 
 The project uses wikimedia api to get these facts<br>
-It requires presence of a secret_info.json file which has the following structure
+It requires presence of a `secret_info.json` file which has the following structure
 
 ```
 {"Client ID":
