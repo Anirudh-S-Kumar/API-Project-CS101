@@ -17,7 +17,7 @@ The query to get all the items is a computationally intensive task, and can take
 Therefore, they are cached into the `data.json` file to avoid doing this task everytime the user plays the game. 
 
 ## Definitions of views
-The main definition of "views" used to compare two wikipedia articles is the number of views it gets in the last two months.
+The main definition of "views" used to compare two wikipedia articles is the number of views it has got in the last two months.
 Some other definitions could also have been used, such as average daily views within the last 2 months, but were not chosen to avoid floating point arithmetic. 
 
 ## Installation instruction
