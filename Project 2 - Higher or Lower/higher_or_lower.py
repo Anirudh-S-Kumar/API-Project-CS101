@@ -109,7 +109,17 @@ def main_loop():
         print(f"Compare A : {val1}, which has {val1_views} views")
         print(vs)
         print(f"Against B : {val2}")
-        attempt = input("Which page gets more views? Type 'A' or 'B' : ")
+        
+        #input validation
+        options = {"A", "B"}
+        while True:
+            attempt = input("Which page gets more views? Type 'A' or 'B' : ")
+
+            if attempt.upper() in options:
+                break
+            else:
+                print("Invalid input. Try again. ")
+                
 
         if val1_views > val2_views:
             answer = "A"
