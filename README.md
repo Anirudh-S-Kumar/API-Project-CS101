@@ -1,4 +1,4 @@
-# API-Project-CS101
+# API Projects - CS101
 Two Projects made as part of my CS101 course. <br>
 Both of these projects are console based and have no GUI attached to them
 
