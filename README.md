@@ -6,4 +6,7 @@ Both of these projects are console based and have no GUI attached to them
 This project asks user for a day of the year, and then gives them a random 'On This Day' fact
 
 ### Project 2 - Higher or Lower
-Spinoff of the popular higher or lower game (https://www.higherlowergame.com/) using wikidata queries instead of using Google Trends data 
+Spinoff of the popular higher or lower game<sup>[1](https://www.higherlowergame.com/)</sup> using wikidata queries instead of using Google Trends data 
+
+
+[1] - https://www.higherlowergame.com
