@@ -1,15 +1,15 @@
 # Project 2 - Higher or Lower Game
 
-This is a spinoff of the popular higher or lower game (https://www.higherlowergame.com/) using wikidata queries instead of using Google Trends data.
+This is a spinoff of the popular higher or lower game<sup>[1](https://www.higherlowergame.com/)</sup> using wikidata queries instead of using Google Trends data.
 No API keys are required to run this project<br>
 The project uses two APIs
 - Wikidata API : Used to get the list of items to compare within the game
 - Wikipedia API : Used to get the pageviews on a site in the last 2 months. 
 
-NOTE: Only English Wikipedia (https://en.wikipedia.org/) pageviews have been used as part of the project.
+NOTE: Only English Wikipedia<sup>[2](https://en.wikipedia.org/)</sup> pageviews have been used as part of the project.
 
 ## Criteria for items to be used in the game
-- Main filter used was the article should have more than 90 `sitelinks` (https://www.wikidata.org/wiki/Help:Sitelinks) .
+- Main filter used was the article should have more than 90 `sitelinks`<sup>[3](https://www.wikidata.org/wiki/Help:Sitelinks)</sup>.
 - Other filters included removing wikidata specific links and categories of things inside wikidata.
 - Exclusion of time periods, days/dates, numbers. 
 
@@ -23,3 +23,9 @@ Some other definitions could also have been used, such as average daily views wi
 ## Installation instruction
 1) Download/Clone this repository
 2) Run `higher_or_lower.py`
+
+### Footnotes
+[1] - https://www.higherlowergame.com <br>
+[2] - https://en.wikipedia.org/ <br>
+[3] - https://www.wikidata.org/wiki/Help:Sitelinks
+
