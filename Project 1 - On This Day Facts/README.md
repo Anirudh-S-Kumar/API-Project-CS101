@@ -25,7 +25,7 @@ A sample json file has been provided for your reference.<br>
 <br>
 
 ## Setup
-1) Getting your API keys . Documentation for getting your API keys can be found here : https://api.wikimedia.org/wiki/Documentation/Getting_started <br>
+1) Getting your API keys . Documentation for getting your API keys can be found [here](https://api.wikimedia.org/wiki/Documentation/Getting_started) <br>
 NOTE: Make sure you select Personal API token when making your API key.
 
 2) Copy the API key info into the sample `secret_info.json` file, replacing the dummy values with your actual credentials
